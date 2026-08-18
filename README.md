@@ -11,7 +11,7 @@ breakdown published by Red Hat:
 <https://www.redhat.com/en/services/training/ex200-red-hat-certified-system-administrator-rhcsa-exam>
 
 ```bash
-rhcsa-notes/
+rhcsa-prep/
 ├── README.md
 ├── TEMPLATE.md
 ├── progress-log.md
@@ -34,6 +34,14 @@ Each folder contains a `notes.md` following the format in
 
 - Course: RHCSA Complete Video Course — Sander van Vugt (Pearson IT Certification)
 - Exam: Red Hat Certified System Administrator (EX200)
+
+## Lab Environment
+
+- **Hypervisor:** VMware Workstation Pro
+- **RHEL Version:** RHEL 10.2
+- **VM Specs:** 2 vCPU, 4GB RAM, 20GB disk
+- **Network Setup:** NAT
+- **Number of VMs:** 1 primary (may add a 2nd later for networking/NFS/SSH practice)
 
 ## Progress
 
