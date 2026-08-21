@@ -1,7 +1,7 @@
 # [Topic Name]
 
-**Exam Objective:** [exact line from Red Hat's EX200 objectives]
-**Course Reference:** Sander van Vugt RHCSA Course — [Module/Lesson]
+**Exam Objective:** [exact line from Red Hat's EX200 objectives]\
+**Course Reference:** Sander van Vugt RHCSA Course — [Module/Lesson]\
 **Date:** [YYYY-MM-DD]
 
 ## Summary
